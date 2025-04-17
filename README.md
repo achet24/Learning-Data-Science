@@ -1,2 +1,2 @@
-# Learning-Data-Science
-Skills that I have gained in Data Science using public datasets
+# Learning-Machine-Learning
+Skills that I have gained in Machine Learning using public datasets
