@@ -1,2 +1,2 @@
 # Learning-Machine-Learning
-Skills that I have gained in Machine Learning using public datasets
+Code alongs of skills I learned on [course name] by [instructor]. 
